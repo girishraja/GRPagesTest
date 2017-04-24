@@ -4,6 +4,7 @@ You can be guaranteed that we will be responsive!
 
 <ul>
   <li>We are going to make this an awesome site</li>
+  <li>We are going to make this a responsive site</li>
 </ul>
 
 You can use the [editor on GitHub](https://github.com/girishraja/grpagestest/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
